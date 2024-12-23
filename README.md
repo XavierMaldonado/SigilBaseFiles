@@ -1,0 +1,2 @@
+# SigilBaseFiles
+Sigil(GAME FILES)
